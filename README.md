@@ -10,7 +10,7 @@ Urgency Contact: sirasit.lo@kmitl.ac.th
 ## Course Outlines
 |Week| Date | Lecture Slides|Lab Sheet|
 |---|---|---|---|
-|Week 01| 25/11/2025 | [Week1_Introduction](https://github.com/noswolf/BDS/blob/main/Week%201/BDS_Week1.pdf)  | - |
+|Week 01| 25/11/2025 | [Week1_Introduction](https://github.com/noswolf/BDS/blob/main/Week1/BDS_Week1.pdf)  | - |
 |Week 02| 02/12/2025 | - | - |   
 |Week 03| 09/12/2025 | [Week3_HDFS_and_MapReduce]|   |  
 |Week 04| 16/12/2025 | [Week4_Spark_RDD_Operations]| |     
