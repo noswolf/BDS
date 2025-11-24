@@ -18,7 +18,7 @@ Urgency Contact: sirasit.lo@kmitl.ac.th
 |Week 06| 30/12/2025 |  - | - |   
 |Week 07| 06/01/2026 |  [Week7_Data_Sources]|  |  
 |Week 08| 13/01/2026 |  - | - |  
-|Week --| 20/01/2026 | Mid-term | |  
+|Week --| 23/01/2026 | Mid-term | |  
 |Week 09| 27/01/2026 | [Week9_] |  |   
 |Week 10| 03/02/2026 | [Week10_] |  |  
 |Week 11| 10/02/2026 | [Week11_] | |    
