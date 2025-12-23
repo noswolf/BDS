@@ -14,7 +14,7 @@ Urgency Contact: sirasit.lo@kmitl.ac.th
 |Week 02| 02/12/2025 | - | - |   
 |Week 03| 09/12/2025 | [Week3_HDFS_and_MapReduce](https://github.com/noswolf/BDS/blob/main/Week3/BDS_Week3.pdf)|   |  
 |Week 04| 16/12/2025 | | |     
-|Week 05| 23/12/2025 | | [Lab2_DataFrame](ttps://github.com/noswolf/BDS/blob/main/Week5/BDS_Lab2_student.ipynb)|  
+|Week 05| 23/12/2025 | | [Lab2_DataFrame](https://github.com/noswolf/BDS/blob/main/Week5/BDS_Lab2_student.ipynb)|  
 |Week 06| 30/12/2025 |  - | - |   
 |Week 07| 06/01/2026 |  [Week7_Data_Sources]|  |  
 |Week 08| 13/01/2026 |  - | - |  
