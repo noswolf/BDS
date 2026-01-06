@@ -16,7 +16,7 @@ Urgency Contact: sirasit.lo@kmitl.ac.th
 |Week 04| 16/12/2025 | | |     
 |Week 05| 23/12/2025 | | [Lab2_DataFrame](https://github.com/noswolf/BDS/blob/main/Week5/BDS_Lab2_student.ipynb)|  
 |Week 06| 30/12/2025 |  - | - |   
-|Week 07| 06/01/2026 |  [Week7_Data_Sources]|  |  
+|Week 07| 06/01/2026 |  [Week7_Apache_Spark](https://github.com/noswolf/BDS/blob/main/Week7/BDS_Week7.pdf)|  |  
 |Week 08| 13/01/2026 |  No class (due to Commencement Ceremony) | - |  
 |Week --| 23/01/2026 | Mid-term | |  
 |Week 09| 27/01/2026 | [Week9_] |  |   
