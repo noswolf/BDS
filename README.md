@@ -20,7 +20,7 @@ Urgency Contact: sirasit.lo@kmitl.ac.th
 |Week 08| 13/01/2026 |  No class (due to Commencement Ceremony) | - |  
 |Week --| 23/01/2026 | Mid-term | |  
 |Week 09| 27/01/2026 | [Week9_Databricks](https://github.com/noswolf/BDS/blob/main/Week9/BDS_Week9.pdf) | [Lab4_PySpark](https://github.com/noswolf/BDS/blob/main/Week9/BDS_Lab4_student.ipynb) |   
-|Week 10| 03/02/2026 | [Week10_Lakeflow_SDP] | [Lab5_Custom_Data_Sources](https://github.com/noswolf/BDS/blob/main/Week10/BDS_Lab5_student.ipynb) <br> [Lab6_Lakeflow_SDP](https://github.com/noswolf/BDS/blob/main/Week10/BDS_Lab6_student.ipynb) |  
+|Week 10| 03/02/2026 | [Week10_Lakeflow_SDP](https://github.com/noswolf/BDS/blob/main/Week10/BDS_Week10.pdf)) | [Lab5_Custom_Data_Sources](https://github.com/noswolf/BDS/blob/main/Week10/BDS_Lab5_student.ipynb) <br> [Lab6_Lakeflow_SDP](https://github.com/noswolf/BDS/blob/main/Week10/BDS_Lab6_student.ipynb) |  
 |Week 11| 10/02/2026 | [Week11_] | |    
 |Week 12| 17/02/2026 | [Week12_] |  | 
 |Week 13| 24/02/2026 | [Week13_] |   |  
