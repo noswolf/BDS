@@ -29,4 +29,4 @@ Urgency Contact: sirasit.lo@kmitl.ac.th
 |Final Exam| 19/03/2026 |  |		|
 
 ## Midterm Distribution Scores
-![BDS Midterm]("Scores/BDS_2025_Midterm_Exam_Scores.png")
+![BDS Midterm](Scores/BDS_2025_Midterm_Exam_Scores.png)
