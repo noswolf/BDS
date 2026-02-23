@@ -23,7 +23,7 @@ Urgency Contact: sirasit.lo@kmitl.ac.th
 |Week 10| 03/02/2026 | [Week10_Lakeflow_SDP](https://github.com/noswolf/BDS/blob/main/Week10/BDS_Week10.pdf) | [Lab5_Custom_Data_Sources](https://github.com/noswolf/BDS/blob/main/Week10/BDS_Lab5_student.ipynb) <br> [Lab6_Lakeflow_SDP](https://github.com/noswolf/BDS/blob/main/Week10/BDS_Lab6_student.ipynb) |  
 |Week 11| 10/02/2026 | No Class due to grading midterm exams krub, apologies to all :( | |    
 |Week 12| 17/02/2026 | [Week12_LDP_Fundamentals](https://github.com/noswolf/BDS/blob/main/Week12/BDS_Week12.pdf) | [Lab7_LDP_using_CDC](https://github.com/noswolf/BDS/blob/main/Week12/BDS_Lab7_student.ipynb) | 
-|Week 13| 24/02/2026 | [Week13_The_Shell](https://github.com/noswolf/BDS/blob/main/Week13/BDS_Week13.pdf) | [Lab8_Introduction_to_Ubuntu_Linux_and_Docker](https://github.com/noswolf/BDS/blob/main/Week12/BDS_Lab8_student.md)  |  
+|Week 13| 24/02/2026 | [Week13_The_Shell](https://github.com/noswolf/BDS/blob/main/Week13/BDS_Week13.pdf) | [Lab8_Introduction_to_Ubuntu_Linux_and_Docker](https://github.com/noswolf/BDS/blob/main/Week13/BDS_Lab8_student.md)  |  
 |Week 14| 03/03/2026 | Public Holiday | - |  
 |Week 15| 10/03/2026 | [Week15_] |  |
 |Final Exam| 19/03/2026 |  |		|
