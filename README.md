@@ -25,7 +25,7 @@ Urgency Contact: sirasit.lo@kmitl.ac.th
 |Week 12| 17/02/2026 | [Week12_LDP_Fundamentals](https://github.com/noswolf/BDS/blob/main/Week12/BDS_Week12.pdf) | [Lab7_LDP_using_CDC](https://github.com/noswolf/BDS/blob/main/Week12/BDS_Lab7_student.ipynb) | 
 |Week 13| 24/02/2026 | [Week13_The_Shell](https://github.com/noswolf/BDS/blob/main/Week13/BDS_Week13.pdf) | [Lab8_Introduction_to_Ubuntu_Linux_and_Docker](https://github.com/noswolf/BDS/blob/main/Week13/BDS_Lab8_student.md)  |  
 |Week 14| 03/03/2026 | Public Holiday | - |  
-|Week 15| 10/03/2026 | [Week15_] |  |
+|Week 15| 10/03/2026 | - | [Lab9_Apache_Spark_and_Docker](https://github.com/noswolf/BDS/blob/main/Week15/BDS_Lab9_student.md) |
 |Final Exam| 19/03/2026 |  |		|
 
 ## Midterm Distribution Scores
