@@ -10,6 +10,7 @@ The final exam will cover all lecture and lab materials on the followings:
 3. Lakeflow Spark Declarative Pipelines
 4. Change Data Capture
 * SQL and Python codes are expected to appear on the exam
+* Shell and Docker Lab **will not** appear on the exam
 
 ## Written Part (50%)
 
