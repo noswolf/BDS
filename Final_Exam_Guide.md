@@ -1,6 +1,19 @@
-# Final Exam Written Part Guideline
+# Final Exam Guideline
 
-# Task
+## Multiple Choice (50%)
+
+### Topic Covered
+
+The final exam will cover all lecture and lab materials on the followings:
+1. PySpark on Databricks
+2. Custom Data Sources
+3. Lakeflow Spark Declarative Pipelines
+4. Change Data Capture
+* SQL and Python codes are expected to appear on the exam
+
+## Written Part (50%)
+
+### Task
 
 คุณทำงานในตำแหน่ง Data Architect ที่กำลังจะนำเสนอ Big Data System ใหม่สำหรับ
 
